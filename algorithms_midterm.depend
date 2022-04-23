@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650690313 source:c:\users\ldh01\desktop\2022-1_algorithms\main.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+
