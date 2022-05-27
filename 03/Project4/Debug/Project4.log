@@ -1,0 +1,10 @@
+﻿  04.c
+C:\Users\ldh01\Desktop\2022-1_Algorithms\03\Project4\04.c(13,24): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ldh01\Desktop\2022-1_Algorithms\03\Project4\04.c(20,30): warning C4047: '=': 'node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\ldh01\Desktop\2022-1_Algorithms\03\Project4\04.c(21,30): warning C4047: '=': 'node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\ldh01\Desktop\2022-1_Algorithms\03\Project4\04.c(31,30): warning C4047: '=': 'node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\ldh01\Desktop\2022-1_Algorithms\03\Project4\04.c(32,30): warning C4047: '=': 'node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\ldh01\Desktop\2022-1_Algorithms\03\Project4\04.c(13,1): warning C4047: '초기화 중': 'node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\ldh01\Desktop\2022-1_Algorithms\03\Project4\04.c(15,1): warning C4047: '초기화 중': 'node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\ldh01\Desktop\2022-1_Algorithms\03\Project4\04.c(53,1): warning C4047: '초기화 중': 'node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  Project4.vcxproj -> C:\Users\ldh01\Desktop\2022-1_Algorithms\03\Project4\Debug\Project4.exe

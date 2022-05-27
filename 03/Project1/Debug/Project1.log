@@ -1,0 +1,8 @@
+﻿  01.c
+C:\Users\ldh01\Desktop\2022-1_Algorithms\03\Project1\01.c(113,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+02.obj : error LNK2005: _list_append이(가) 01.obj에 이미 정의되어 있습니다.
+02.obj : error LNK2005: _list_remove이(가) 01.obj에 이미 정의되어 있습니다.
+02.obj : error LNK2005: _list_size이(가) 01.obj에 이미 정의되어 있습니다.
+02.obj : error LNK2005: _list_traverse이(가) 01.obj에 이미 정의되어 있습니다.
+02.obj : error LNK2005: _main이(가) 01.obj에 이미 정의되어 있습니다.
+C:\Users\ldh01\Desktop\2022-1_Algorithms\03\Project1\Debug\Project1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
