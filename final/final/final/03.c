@@ -10,6 +10,7 @@ int vertex[5][5] = {
 
 int dis[5];
 int vis[5];
+char name[5];
 
 int choose() {
 	int i, min, minpos;
@@ -48,26 +49,32 @@ void shortest_path(int start) {
 		}
 	}
 }
-/*
+
 int main() {
+    name[0] = 's';
+    name[1] = 't';
+    name[2] = 'x';
+    name[3] = 'y';
+    name[4] = 'z';
+    
 	shortest_path(0);
 
-	printf("Node : y, Cost : %d\n3", dis[3]);
+	printf("Node : y, Cost : %d\ny", dis[3]);
 	
 	int print = 3;
 	while (print != 0) {
 		print = vis[print];
-		printf(" <- %d", print);
+		printf(" <- %c", name[print]);
 	}
 
 
-	printf("\nNode : z, Cost : %d\n4", dis[4]);
+	printf("\nNode : z, Cost : %d\nz", dis[4]);
 
 	print = 4;
 	while (print != 0) {
 		print = vis[print];
-		printf(" <- %d", print);
+		printf(" <- %c", name[print]);
 	}
 	
 	return 0;
-}*/
+}
